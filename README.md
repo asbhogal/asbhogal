@@ -1,8 +1,5 @@
 <div align="center">
 
-<h1>AMAN SINGH BHOGAL</h1>
-<h2>WEB DESIGNER & DEVELOPER</h2>
-
 <h2>ABOUT ME</h2>
 ⨯ 👋 Hi, I’m Aman<br>
 ⨯ 💻 I’m interested in WordPress Design and Development<br>
@@ -32,6 +29,8 @@ You can click the Preview link to take a look at your changes.
 <a target="_blank" rel="noopener noreferrer" href="https://github.com/devicons/devicon/blob/master/icons/gimp/gimp-plain.svg"><img src="https://github.com/devicons/devicon/blob/master/icons/gimp/gimp-plain.svg" alt="gimp" width="50" height="50" style="max-width:100%;"></a>
 
 <h2> STATS</h2>
+<img src="https://uc8756db46484046e0257f6dc858.previews.dropboxusercontent.com/p/thumb/ABRJTbw7bc8RNKxOHzd4XLK3PVtwmiFJKiCqSFTuPfL7KAeimSd_hc_MU9cnm6jSqOI5jlUONVkqOb7Kyj_yA9m3kqISpRannNKAgHrAi1VW0tzrEnREKTXLZwbdq5LlvPcKGSxCifdfBA7VJ7X7NpGeRSzKuX6_MEYo91SLrFBKRWBppeGBLTm8Px_W9PydFqk7Yl1l-2Jz9m7jmDiAZJnHpx6ejEfgyHY_z7CPtWBibkpRFhw_tjP9oOQ58crDujDI0q1TlyryWI9rT18MDty2_fqrGbIZQMclar1hBnmmtgS8NU336R6SSU7vp8hmxqGpZXO9kGBZjW3JMtOLp9IinOmCkXCruV8Fonry3zNp6Q/p.png?fv_content=true&size_mode=5">
+  <p></p>
 <a target="_blank" rel="noopener noreferrer" target="_blank" rel="noreferrer noopener""><img src="https://github-readme-stats.vercel.app/api?username=asbhogal&theme=dark&show_icons=true)">
   
 <h2>CONTACT ME</h2>
