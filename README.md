@@ -1,3 +1,8 @@
+<div align="center">
+
+<h1>AMAN SINGH BHOGAL</h1>
+<h2>WEB DESIGNER & DEVELOPER</h2>
+
 <h2>ABOUT ME</h2>
 ⨯ 👋 Hi, I’m Aman<br>
 ⨯ 💻 I’m interested in WordPress Design and Development<br>
@@ -26,6 +31,9 @@ You can click the Preview link to take a look at your changes.
 <a target="_blank" rel="noopener noreferrer" href="https://github.com/devicons/devicon/blob/master/icons/digitalocean/digitalocean-original.svg"><img src="https://github.com/devicons/devicon/blob/master/icons/digitalocean/digitalocean-original.svg" alt="digitalocean" width="50" height="50" style="max-width:100%;"></a>
 <a target="_blank" rel="noopener noreferrer" href="https://github.com/devicons/devicon/blob/master/icons/gimp/gimp-plain.svg"><img src="https://github.com/devicons/devicon/blob/master/icons/gimp/gimp-plain.svg" alt="gimp" width="50" height="50" style="max-width:100%;"></a>
 
+<h2> STATS</h2>
+<a target="_blank" rel="noopener noreferrer" target="_blank" rel="noreferrer noopener""><img src="https://github-readme-stats.vercel.app/api?username=asbhogal&theme=dark&show_icons=true)">
+  
 <h2>CONTACT ME</h2>
 <a target="_blank" rel="noopener noreferrer" href="mailto:amansinghbhogal1@gmail.com" target="_blank" rel="noreferrer noopener""><img src="https://github.com/FortAwesome/Font-Awesome/blob/master/svgs/solid/envelope.svg" alt="email" width="50" height="50" style="max-width:100%;"></a>
 <a target="_blank" rel="noopener noreferrer" href="https://amansinghbhogal.com/contact" target="_blank" rel="noreferrer noopener""><img src="https://github.com/FortAwesome/Font-Awesome/blob/master/svgs/solid/globe.svg" alt="email" width="50" height="50" style="max-width:100%;"></a>
