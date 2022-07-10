@@ -2,11 +2,11 @@
 
 <h2>ABOUT ME</h2>
 ⨯ 👋 Hi, I’m Aman<br>
-⨯ 💻 I’m interested in WordPress Design and Development<br>
+⨯ 💻 I have 2 years of WordPress Design and Development experience<br>
 ⨯ 🧠 I’m currently learning HTML5, CSS3, JavaScript & PHP<br>
 ⨯ 🤝 I’m looking to collaborate on agency-client projects<br>
 ⨯ 📫 How to reach me:<br>
-  <a href="www.amansinghbhogal.com/contact">WEBSITE</a> / <a href="mailto:amansinghbhogal1@gmail.com" target="_blank" rel="noreferrer noopener">EMAIL</a> / <a href="www.linkedin.com/in/amansinghbhogal">LINKEDIN</a>
+  <a href="www.amansinghbhogal.com/">WEBSITE</a> / <a href="mailto:amansinghbhogal1@gmail.com" target="_blank" rel="noreferrer noopener">EMAIL</a> / <a href="www.linkedin.com/in/amansinghbhogal">LINKEDIN</a>
 
 <!---
 asbhogal/asbhogal is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
