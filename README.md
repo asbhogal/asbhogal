@@ -32,7 +32,7 @@ You can click the Preview link to take a look at your changes.
 
 <h2> STATS</h2>
 
-<a target="_blank" rel="noopener noreferrer" target="_blank" rel="noreferrer noopener""><img src="https://github-readme-stats.vercel.app/api?username=asbhogal&theme=dark&show_icons=true)">
+<img src="https://github-readme-stats.vercel.app/api?username=asbhogal&theme=dark&show_icons=true)">
   
 <h2>CONTACT ME</h2>
 <a target="_blank" rel="noopener noreferrer" href="mailto:amansinghbhogal1@gmail.com" target="_blank" rel="noreferrer noopener""><img src="https://github.com/FortAwesome/Font-Awesome/blob/master/svgs/solid/envelope.svg" alt="email" width="50" height="50" style="max-width:100%;"></a>
