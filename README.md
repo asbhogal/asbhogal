@@ -18,6 +18,10 @@ You can click the Preview link to take a look at your changes.
 <h2>STACKS & SERVICES</h2>
 <a target="_blank" rel="noopener noreferrer" href="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg"><img src="https://github.com/devicons/devicon/raw/master/icons/html5/html5-original.svg" alt="html5" width="50" height="50" style="max-width:100%;"></a>
 <a target="_blank" rel="noopener noreferrer" href="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"><img src="https://github.com/devicons/devicon/raw/master/icons/css3/css3-plain-wordmark.svg" alt="css3" width="50" height="50" style="max-width:100%;"></a>
+
+<a target="_blank" rel="noopener noreferrer" href="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg"><img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" alt="sass" width="50" height="50" style="max-width:100%;"></a>
+
+
 <a target="_blank" rel="noopener noreferrer" href="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg"><img src="https://github.com/devicons/devicon/raw/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50" style="max-width:100%;"></a>
 <a target="_blank" rel="noopener noreferrer" href="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-plain.svg"><img src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-plain.svg" alt="JavaScript" width="50" height="50" style="max-width:100%;"></a>
 <a target="_blank" rel="noopener noreferrer" href="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg"><img src="https://github.com/devicons/devicon/raw/master/icons/php/php-original.svg" alt="php" width="50" height="50" style="max-width:100%;"></a>
