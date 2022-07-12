@@ -38,7 +38,9 @@ You can click the Preview link to take a look at your changes.
   
 <h2>CONTACT ME</h2>
 <a target="_blank" href="mailto:amansinghbhogal1@gmail.com"><img src="https://github.com/FortAwesome/Font-Awesome/blob/master/svgs/solid/envelope.svg" alt="email" width="50" height="50" style="max-width:100%;"></a>
+<a target="_blank" href="https://amansinghbhogal.com/contact/"><img src="https://github.com/FortAwesome/Font-Awesome/blob/master/svgs/solid/globe.svg" alt="email" width="50" height="50" style="max-width:100%;"></a>
 
-<a target="_blank" rel="noopener noreferrer" href="mailto:amansinghbhogal1@gmail.com" target="_blank" rel="noreferrer noopener""><img src="https://github.com/FortAwesome/Font-Awesome/blob/master/svgs/solid/envelope.svg" alt="email" width="50" height="50" style="max-width:100%;"></a>
+
+<!--<a target="_blank" rel="noopener noreferrer" href="mailto:amansinghbhogal1@gmail.com" target="_blank" rel="noreferrer noopener""><img src="https://github.com/FortAwesome/Font-Awesome/blob/master/svgs/solid/envelope.svg" alt="email" width="50" height="50" style="max-width:100%;"></a>
 <a target="_blank" rel="noopener noreferrer" href="https://amansinghbhogal.com/contact" target="_blank" rel="noreferrer noopener""><img src="https://github.com/FortAwesome/Font-Awesome/blob/master/svgs/solid/globe.svg" alt="email" width="50" height="50" style="max-width:100%;"></a>
-<a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/in/amansinghbhogal"><img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" alt="linkedin" width="50" height="50" style="max-width:100%;"></a>
+<a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/in/amansinghbhogal"><img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" alt="linkedin" width="50" height="50" style="max-width:100%;"></a>-->
