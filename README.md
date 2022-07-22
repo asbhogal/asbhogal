@@ -3,7 +3,7 @@
 <h2>ABOUT ME</h2>
 ⨯ 👋 Hi, I’m Aman<br>
 ⨯ 💻 I have 2 years of WordPress Design and Development experience<br>
-⨯ 🧠 I’m currently learning HTML5, CSS3, JavaScript & PHP<br>
+⨯ 🧠 I’m currently learning HTML5, CSS3 (SCSS), JavaScript & PHP<br>
 ⨯ 🤝 I’m looking to collaborate on agency-client projects<br>
 <!--⨯ 📫 How to reach me:<br>-->
  <!-- <a href="www.amansinghbhogal.com/">WEBSITE</a> / -->
