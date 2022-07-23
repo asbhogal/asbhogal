@@ -31,7 +31,6 @@ You can click the Preview link to take a look at your changes.
 <a target="_blank" rel="noopener noreferrer" href="https://github.com/devicons/devicon/blob/master/icons/canva/canva-original.svg"><img src="https://github.com/devicons/devicon/blob/master/icons/canva/canva-original.svg" alt="canva" width="50" height="50" style="max-width:100%;"></a>
 <a target="_blank" rel="noopener noreferrer" href="https://github.com/devicons/devicon/blob/master/icons/codepen/codepen-plain.svg"><img src="https://github.com/devicons/devicon/blob/master/icons/codepen/codepen-plain.svg" alt="codepen" width="50" height="50" style="max-width:100%;"></a>
 <a target="_blank" rel="noopener noreferrer" href="https://github.com/devicons/devicon/blob/master/icons/redis/redis-plain.svg"><img src="https://github.com/devicons/devicon/blob/master/icons/redis/redis-plain.svg" alt="redis" width="50" height="50" style="max-width:100%;"></a>
-
 <a target="_blank" rel="noopener noreferrer" href="https://github.com/devicons/devicon/blob/master/icons/ssh/ssh-original.svg"><img src="https://github.com/devicons/devicon/blob/master/icons/ssh/ssh-original.svg" alt="ssh" width="50" height="50" style="max-width:100%;"></a>
 
 <a target="_blank" rel="noopener noreferrer" href="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg"><img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" alt="npm" width="50" height="50" style="max-width:100%;"></a>
