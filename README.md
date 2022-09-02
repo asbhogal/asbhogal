@@ -37,9 +37,12 @@ You can click the Preview link to take a look at your changes.
 <a target="_blank" rel="noopener noreferrer" href="https://github.com/devicons/devicon/blob/master/icons/digitalocean/digitalocean-original.svg"><img src="https://github.com/devicons/devicon/blob/master/icons/digitalocean/digitalocean-original.svg" alt="digitalocean" width="50" height="50" style="max-width:100%;"></a>
 <a target="_blank" rel="noopener noreferrer" href="https://github.com/devicons/devicon/blob/master/icons/gimp/gimp-plain.svg"><img src="https://github.com/devicons/devicon/blob/master/icons/gimp/gimp-plain.svg" alt="gimp" width="50" height="50" style="max-width:100%;"></a>
 
-<h2> STATS</h2>
+<h2>STATS</h2>
 
 <img src="https://github-readme-stats.vercel.app/api?username=asbhogal&theme=dark&show_icons=true">
+ 
+<h2>MOST USED STACKS</h2>
+ 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=asbhogal&layout=compact">
   
 <h2>CONTACT ME</h2>
