@@ -43,7 +43,7 @@ You can click the Preview link to take a look at your changes.
  
 <h2>MOST USED STACKS</h2>
  
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=asbhogal&layout=compact">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=asbhogal&layout=compact&theme=dark">
   
 <h2>CONTACT ME</h2>
 <a target="_blank" href="mailto:amansinghbhogal1@gmail.com"><img src="https://github.com/FortAwesome/Font-Awesome/blob/master/svgs/solid/envelope.svg" alt="email" width="50" height="50" style="max-width:100%;"></a>
