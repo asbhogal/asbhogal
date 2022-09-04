@@ -46,6 +46,10 @@ You can click the Preview link to take a look at your changes.
  
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=asbhogal&layout=compact&theme=dark">
   
+ <h2>CURRENT ACHIEVEMENTS</h2>
+<img src="https://github-profile-trophy.vercel.app/?username=asbhogal&theme=darkhub"> 
+ 
+ 
 <h2>CONTACT ME</h2>
 <a target="_blank" href="mailto:amansinghbhogal1@gmail.com"><img src="https://github.com/FortAwesome/Font-Awesome/blob/master/svgs/solid/envelope.svg" alt="email" width="50" height="50" style="max-width:100%;"></a>
 <a target="_blank" href="https://amansinghbhogal.com/contact/"><img src="https://fonts.gstatic.com/s/i/short-term/release/materialsymbolsoutlined/language/default/48px.svg" alt="email" width="50" height="50" style="max-width:100%;"></a>
