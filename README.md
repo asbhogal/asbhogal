@@ -6,7 +6,7 @@
 ⨯ 🧠 I’m currently using HTML5, CSS3 (SCSS), JavaScript, jQuery, APIs, Bootstrap & PHP<br>
 ⨯ 🤝 I’m looking to collaborate on agency-based projects<br>
   
-<h2>How to reach me:</h2>
+<h2>HOW TO REACH ME:</h2>
   
 <a href="www.amansinghbhogal.com/">WEBSITE</a>
 <a href="mailto:amansinghbhogal1@gmail.com" target="_blank" rel="noreferrer noopener">EMAIL</a>
