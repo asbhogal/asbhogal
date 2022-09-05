@@ -2,9 +2,9 @@
 
 <h2>ABOUT ME</h2>
 ⨯ 👋 Hi, I’m Aman<br>
-⨯ 💻 I have 2 years of WordPress Design and Development experience<br>
-⨯ 🧠 I’m currently learning HTML5, CSS3 (SCSS), JavaScript, jQuery, Bootstrap & PHP<br>
-⨯ 🤝 I’m looking to collaborate on agency-client projects<br>
+⨯ 💻 I have over 2 years of client-side experience in WordPress Design and Development<br>
+⨯ 🧠 I’m currently using HTML5, CSS3 (SCSS), JavaScript, jQuery, APIs, Bootstrap & PHP<br>
+⨯ 🤝 I’m looking to collaborate on agency-based projects<br>
 <!--⨯ 📫 How to reach me:<br>-->
  <!-- <a href="www.amansinghbhogal.com/">WEBSITE</a> / -->
  <!-- <a href="mailto:amansinghbhogal1@gmail.com" target="_blank" rel="noreferrer noopener">EMAIL</a> / -->
