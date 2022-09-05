@@ -5,7 +5,7 @@
 ⨯ 💻 I have over 2 years of client-side experience in WordPress Design and Development<br>
 ⨯ 🧠 I’m currently using HTML5, CSS3 (SCSS), JavaScript, jQuery, APIs, Bootstrap & PHP<br>
 ⨯ 🤝 I’m looking to collaborate on agency-based projects<br>
-📫 How to reach me:
+📫 How to reach me:<br>
   <a href="www.amansinghbhogal.com/">WEBSITE</a>
 <a href="mailto:amansinghbhogal1@gmail.com" target="_blank" rel="noreferrer noopener">EMAIL</a>
 <a href="www.linkedin.com/in/amansinghbhogal">LINKEDIN</a>
