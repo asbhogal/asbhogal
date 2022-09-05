@@ -5,7 +5,7 @@
 ⨯ 💻 I have over 2 years of client-side experience in WordPress Design and Development<br>
 ⨯ 🧠 I’m currently using HTML5, CSS3 (SCSS), JavaScript, jQuery, APIs, Bootstrap & PHP<br>
 ⨯ 🤝 I’m looking to collaborate on agency-based projects<br>
-<!--⨯ 📫 How to reach me:<br>-->
+📫 How to reach me:
   <a href="www.amansinghbhogal.com/">WEBSITE</a>
 <a href="mailto:amansinghbhogal1@gmail.com" target="_blank" rel="noreferrer noopener">EMAIL</a>
 <a href="www.linkedin.com/in/amansinghbhogal">LINKEDIN</a>
@@ -49,10 +49,10 @@ You can click the Preview link to take a look at your changes.
 <img src="https://github-profile-trophy.vercel.app/?username=asbhogal&theme=darkhub"> 
  
  
-<h2>CONTACT ME</h2>
+<!--<h2>CONTACT ME</h2>
 <a target="_blank" href="mailto:amansinghbhogal1@gmail.com"><img src="https://github.com/FortAwesome/Font-Awesome/blob/master/svgs/solid/envelope.svg" alt="email" width="50" height="50" style="max-width:100%;"></a>
 <a target="_blank" href="https://amansinghbhogal.com/contact/"><img src="https://fonts.gstatic.com/s/i/short-term/release/materialsymbolsoutlined/language/default/48px.svg" alt="email" width="50" height="50" style="max-width:100%;"></a>
-<a target="_blank" href="https://www.linkedin.com/in/amansinghbhogal"><img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" alt="linkedin" width="50" height="50" style="max-width:100%;"></a>
+<a target="_blank" href="https://www.linkedin.com/in/amansinghbhogal"><img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" alt="linkedin" width="50" height="50" style="max-width:100%;"></a>-->
 
 <!--<a target="_blank" rel="noopener noreferrer" href="mailto:amansinghbhogal1@gmail.com" target="_blank" rel="noreferrer noopener""><img src="https://github.com/FortAwesome/Font-Awesome/blob/master/svgs/solid/envelope.svg" alt="email" width="50" height="50" style="max-width:100%;"></a>
 <a target="_blank" rel="noopener noreferrer" href="https://amansinghbhogal.com/contact" target="_blank" rel="noreferrer noopener""><img src="https://github.com/FortAwesome/Font-Awesome/blob/master/svgs/solid/globe.svg" alt="email" width="50" height="50" style="max-width:100%;"></a>-->
