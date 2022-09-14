@@ -41,10 +41,6 @@ You can click the Preview link to take a look at your changes.
 <h2>STATS</h2>
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=asbhogal&theme=dark">
- 
-<h2>MOST USED STACKS</h2>
- 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=asbhogal&layout=compact&theme=dark">
   
  <h2>CURRENT ACHIEVEMENTS</h2>
  
