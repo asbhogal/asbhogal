@@ -2,7 +2,7 @@
 
 <h2>ABOUT ME</h2>
 ⨯ 👋 Hi, I’m Aman<br>
-⨯ 💻 I have over 2 years of client-side experience in WordPress Design and Development<br>
+⨯ 💻 I have over 2 years of client-side experience in Web Design and Development<br>
 ⨯ 🧠 I’m currently using HTML5, CSS3 (SCSS), JavaScript, jQuery, APIs, Bootstrap & PHP<br>
 ⨯ 🤝 I’m looking to collaborate on agency-based projects<br>
   
