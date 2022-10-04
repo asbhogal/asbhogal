@@ -38,14 +38,15 @@ You can click the Preview link to take a look at your changes.
 <a target="_blank" rel="noopener noreferrer" href="https://github.com/devicons/devicon/blob/master/icons/digitalocean/digitalocean-original.svg"><img src="https://github.com/devicons/devicon/blob/master/icons/digitalocean/digitalocean-original.svg" alt="digitalocean" width="50" height="50" style="max-width:100%;"></a>
 <a target="_blank" rel="noopener noreferrer" href="https://github.com/devicons/devicon/blob/master/icons/gimp/gimp-plain.svg"><img src="https://github.com/devicons/devicon/blob/master/icons/gimp/gimp-plain.svg" alt="gimp" width="50" height="50" style="max-width:100%;"></a>
 
+<h2>CURRENT STACKS USED</h2>
+
+<img src="https://github-readme-stats-kappa-livid.vercel.app/api/top-langs/?username=asbhogal&layout=compact&theme=dark">
+
 <h2>STATS</h2>
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=asbhogal&theme=dark"> <img src="https://github-readme-stats-kappa-livid.vercel.app/api?username=asbhogal&show_icons=true&theme=dark">
-
-
-<img src="https://github-readme-stats-kappa-livid.vercel.app/api/top-langs/?username=asbhogal&layout=compact&theme=dark">
   
- <h2>CURRENT ACHIEVEMENTS</h2>
+<h2>CURRENT ACHIEVEMENTS</h2>
  
 <img src="https://github-profile-trophy.vercel.app/?username=asbhogal&theme=darkhub"> 
  
