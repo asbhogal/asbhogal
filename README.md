@@ -4,7 +4,7 @@
 ⨯ 👋 Hi, I’m Aman<br>
 ⨯ 💻 I have over 2 years of client-side experience in Web Design and Development<br>
 ⨯ 🧠 I’m currently using HTML5, CSS3 (SCSS), JavaScript, jQuery, APIs, Bootstrap & PHP<br>
-⨯ 🤝 I’m looking to collaborate on agency-based projects<br>
+⨯ 🤝 I’m looking to collaborate on agency-based projects<br><br>
 <img src="https://wakatime.com/badge/user/eb6c6ab1-4937-4b89-96e5-76e3a543f10d.svg?style=for-the-badge">
   
 <h2>CONTACT ME</h2>
