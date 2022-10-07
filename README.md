@@ -6,8 +6,7 @@
 ⨯ 🧠 I’m currently using HTML5, CSS3 (SCSS), JavaScript, jQuery, APIs, Bootstrap & PHP<br>
 ⨯ 🤝 I’m looking to collaborate on agency-based projects<br><br>
   
-  [![wakatime](https://wakatime.com/badge/user/eb6c6ab1-4937-4b89-96e5-76e3a543f10d.svg)](https://wakatime.com/@eb6c6ab1-4937-4b89-96e5-76e3a543f10d)
-    [![wakatime](https://wakatime.com/badge/user/eb6c6ab1-4937-4b89-96e5-76e3a543f10d.svg?style=for-the-badge)](https://wakatime.com/@eb6c6ab1-4937-4b89-96e5-76e3a543f10d?style=for-the-badge)
+[![wakatime](https://wakatime.com/badge/user/eb6c6ab1-4937-4b89-96e5-76e3a543f10d.svg?style=for-the-badge)](https://wakatime.com/@eb6c6ab1-4937-4b89-96e5-76e3a543f10d?style=for-the-badge)
 
   
 <h2>CONTACT ME</h2>
