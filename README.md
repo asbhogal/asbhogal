@@ -11,7 +11,7 @@
 <h2>UPCOMING PROJECTS / CURRENTLY UNDER DEVELOPMENT</h2>
 
 <img src="https://img.shields.io/badge/PHP-CONTACT%20FORM-787cb5?style=for-the-badge&logo=php">
-<img src="https://img.shields.io/badge/NETLIFY-WEATHER%20APP-5cebdf?style=for-the-badge&logo=netlify">
+<img src="https://img.shields.io/badge/JS-WEATHER%20APP-fcdc00?style=for-the-badge&logo=javascript">
 <img src="https://img.shields.io/badge/JS-CURRENCY%20CONVERTER-fcdc00?style=for-the-badge&logo=javascript">
 <img src="https://img.shields.io/badge/JS-COLOR%20TOOL-fcdc00?style=for-the-badge&logo=javascript">
 <img src="https://img.shields.io/badge/JS-PASSWORD%20STRENGTH%20CHECKER-fcdc00?style=for-the-badge&logo=javascript">
