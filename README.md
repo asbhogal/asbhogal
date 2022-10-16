@@ -10,7 +10,7 @@
 
 <h2>UPCOMING PROJECTS / CURRENTLY UNDER DEVELOPMENT</h2>
 
-<img src="https://img.shields.io/badge/PHP-CONTACT%20FORM-purple?style=for-the-badge&logo=php">
+<img src="https://img.shields.io/badge/PHP-CONTACT%20FORM-787CB5?style=for-the-badge&logo=php">
 <img src="https://img.shields.io/badge/JS-WEATHER%20APP-yellow?style=for-the-badge&logo=javascript">
 <img src="https://img.shields.io/badge/WP-CUSTOM%20PLUGIN-grey?style=for-the-badge&logo=wordpress">
 
