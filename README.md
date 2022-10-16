@@ -21,7 +21,7 @@
   
 <h2>CONTACT ME</h2>
 <a target="_blank" href="mailto:amansinghbhogal1@gmail.com"><img src="https://uxwing.com/wp-content/themes/uxwing/download/communication-chat-call/red-mail-icon.svg" alt="email" width="50" height="50" style="max-width:100%;"></a>
-<a target="_blank" href="https://amansinghbhogal.com/contact/"><img src="https://www.reshot.com/preview-assets/icons/X7Q4YN95KZ/www-X7Q4YN95KZ.svg" alt="email" width="50" height="50" style="max-width:100%;"></a>
+<a target="_blank" href="https://amansinghbhogal.com/contact/"><img src="https://www.reshot.com/preview-assets/icons/YZ4QW76HGV/worldwide-YZ4QW76HGV.svg" alt="email" width="50" height="50" style="max-width:100%;"></a>
 <a target="_blank" href="https://www.linkedin.com/in/amansinghbhogal"><img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" alt="linkedin" width="50" height="50" style="max-width:100%;"></a>
 
 <!---
