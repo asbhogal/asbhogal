@@ -4,6 +4,7 @@
 👋 Hi, I’m Aman<br>
 💻 I have over 2 years of client-side experience in Web Design and Development<br>
 🧠 I’m currently using <code>HTML5</code>, <code>CSS3</code> <code>(SCSS)</code>, <code>JavaScript</code>, <code>jQuery</code>, <code>APIs</code>, <code>Bootstrap</code> & <code>PHP</code><br>
+⚗️ I'm also experimenting with <code>Serverless Functions</code> and <code>React</code><br>
 🤝 I’m looking to collaborate on agency-based projects<br><br>
   
 [![wakatime](https://wakatime.com/badge/user/eb6c6ab1-4937-4b89-96e5-76e3a543f10d.svg?style=for-the-badge)](https://wakatime.com/@eb6c6ab1-4937-4b89-96e5-76e3a543f10d?style=for-the-badge)
@@ -19,8 +20,8 @@
 <img src="https://img.shields.io/badge/TAILWIND-RESPONSIVE%20SITE-38bdf8?style=for-the-badge&logo=tailwind-css">
   
 <h2>CONTACT ME</h2>
-<a target="_blank" href="mailto:amansinghbhogal1@gmail.com"><img src="https://github.com/FortAwesome/Font-Awesome/blob/master/svgs/solid/envelope.svg" alt="email" width="50" height="50" style="max-width:100%;"></a>
-<a target="_blank" href="https://amansinghbhogal.com/contact/"><img src="https://fonts.gstatic.com/s/i/short-term/release/materialsymbolsoutlined/language/default/48px.svg" alt="email" width="50" height="50" style="max-width:100%;"></a>
+<a target="_blank" href="mailto:amansinghbhogal1@gmail.com"><img src="https://uxwing.com/wp-content/themes/uxwing/download/communication-chat-call/red-mail-icon.svg" alt="email" width="50" height="50" style="max-width:100%;"></a>
+<a target="_blank" href="https://amansinghbhogal.com/contact/"><img src="https://www.reshot.com/preview-assets/icons/X7Q4YN95KZ/www-X7Q4YN95KZ.svg" alt="email" width="50" height="50" style="max-width:100%;"></a>
 <a target="_blank" href="https://www.linkedin.com/in/amansinghbhogal"><img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" alt="linkedin" width="50" height="50" style="max-width:100%;"></a>
 
 <!---
