@@ -16,7 +16,7 @@
 <img src="https://img.shields.io/badge/JS-CURRENCY%20CONVERTER-fcdc00?style=for-the-badge&logo=javascript">
 <img src="https://img.shields.io/badge/JS-COLOR%20TOOL-fcdc00?style=for-the-badge&logo=javascript">
 <img src="https://img.shields.io/badge/JS-PASSWORD%20STRENGTH%20CHECKER-fcdc00?style=for-the-badge&logo=javascript">
-<img src="https://img.shields.io/badge/WP-CUSTOM%20PLUGIN-grey?style=for-the-badge&logo=wordpress">
+<!--<img src="https://img.shields.io/badge/WP-CUSTOM%20PLUGIN-grey?style=for-the-badge&logo=wordpress">-->
 <img src="https://img.shields.io/badge/TAILWIND-RESPONSIVE%20SITE-38bdf8?style=for-the-badge&logo=tailwind-css">
   
 <h2>CONTACT ME</h2>
