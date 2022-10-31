@@ -17,7 +17,7 @@
 <img src="https://img.shields.io/badge/JS-COLOR%20TOOL-fcdc00?style=for-the-badge&logo=javascript">
 <img src="https://img.shields.io/badge/JS-PASSWORD%20STRENGTH%20CHECKER-fcdc00?style=for-the-badge&logo=javascript">
 <!--<img src="https://img.shields.io/badge/WP-CUSTOM%20PLUGIN-grey?style=for-the-badge&logo=wordpress">-->
-<img src="https://img.shields.io/badge/TAILWIND-RESPONSIVE%20SITE-38bdf8?style=for-the-badge&logo=tailwind-css">
+<!--<img src="https://img.shields.io/badge/TAILWIND-RESPONSIVE%20SITE-38bdf8?style=for-the-badge&logo=tailwind-css">-->
   
 <h2>CONTACT ME</h2>
 <a target="_blank" href="mailto:amansinghbhogal1@gmail.com"><img src="https://uxwing.com/wp-content/themes/uxwing/download/communication-chat-call/red-mail-icon.svg" alt="email" width="50" height="50" style="max-width:100%;"></a>
