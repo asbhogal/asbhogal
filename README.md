@@ -8,16 +8,6 @@
 🤝 I’m looking to collaborate on agency-based projects<br><br>
   
 [![wakatime](https://wakatime.com/badge/user/eb6c6ab1-4937-4b89-96e5-76e3a543f10d.svg?style=for-the-badge)](https://wakatime.com/@eb6c6ab1-4937-4b89-96e5-76e3a543f10d?style=for-the-badge)
-
-<h2>UPCOMING PROJECTS / CURRENTLY UNDER DEVELOPMENT</h2>
-
-<img src="https://img.shields.io/badge/PHP-CONTACT%20FORM-787cb5?style=for-the-badge&logo=php">
-<img src="https://img.shields.io/badge/JS-WEATHER%20APP-fcdc00?style=for-the-badge&logo=javascript">
-<img src="https://img.shields.io/badge/JS-CURRENCY%20CONVERTER-fcdc00?style=for-the-badge&logo=javascript">
-<img src="https://img.shields.io/badge/JS-COLOR%20TOOL-fcdc00?style=for-the-badge&logo=javascript">
-<img src="https://img.shields.io/badge/JS-PASSWORD%20STRENGTH%20CHECKER-fcdc00?style=for-the-badge&logo=javascript">
-<!--<img src="https://img.shields.io/badge/WP-CUSTOM%20PLUGIN-grey?style=for-the-badge&logo=wordpress">-->
-<!--<img src="https://img.shields.io/badge/TAILWIND-RESPONSIVE%20SITE-38bdf8?style=for-the-badge&logo=tailwind-css">-->
   
 <h2>CONTACT ME</h2>
 <a target="_blank" href="mailto:amansinghbhogal1@gmail.com"><img src="https://uxwing.com/wp-content/themes/uxwing/download/communication-chat-call/red-mail-icon.svg" alt="email" width="50" height="50" style="max-width:100%;"></a>
