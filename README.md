@@ -10,9 +10,10 @@
 [![wakatime](https://wakatime.com/badge/user/eb6c6ab1-4937-4b89-96e5-76e3a543f10d.svg?style=for-the-badge)](https://wakatime.com/@eb6c6ab1-4937-4b89-96e5-76e3a543f10d?style=for-the-badge)
   
 <h2>CONTACT ME</h2>
-<a target="_blank" href="mailto:amansinghbhogal1@gmail.com"><img src="https://uxwing.com/wp-content/themes/uxwing/download/communication-chat-call/red-mail-icon.svg" alt="email" width="50" height="50" style="max-width:100%;"></a>
-<a target="_blank" href="https://amansinghbhogal.com/contact/"><img src="https://www.reshot.com/preview-assets/icons/YZ4QW76HGV/worldwide-YZ4QW76HGV.svg" alt="email" width="50" height="50" style="max-width:100%;"></a>
-<a target="_blank" href="https://www.linkedin.com/in/amansinghbhogal"><img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" alt="linkedin" width="50" height="50" style="max-width:100%;"></a>
+
+<a target="_blank" href="mailto:amansinghbhogal1@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="30px" alt="email"></a>
+<a target="_blank" href="https://amansinghbhogal.com/contact/"><img src="https://img.shields.io/badge/website-3e065f?style=for-the-badge&logo=About.me&logoColor=ccc" height="30px" alt="website contact"></a>
+<a target="_blank" href="https://www.linkedin.com/in/amansinghbhogal"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="30px" alt="linkedin"></a>
 
 <!---
 asbhogal/asbhogal is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
