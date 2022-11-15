@@ -3,8 +3,8 @@
 <h2>ABOUT ME</h2>
 👋 Hi, I’m Aman<br>
 💻 I have over <strong>2 years</strong> of client-side experience in Web Design and Development<br>
-🧠 I’m currently using <code>HTML5</code>, <code>CSS3</code> <code>(SCSS)</code>, <code>Tailwind CSS</code>, <code>JavaScript</code>, <code>jQuery</code>, <code>APIs</code>, <code>Bootstrap</code> & <code>PHP</code><br>
-⚗️ I'm also experimenting with <code>Serverless Functions</code> and <code>React</code><br>
+🧠 I’m currently using <code>HTML5</code>, <code>CSS3</code> <code>(SCSS)</code>, <code>Tailwind CSS</code>, <code>JavaScript</code>, <code>React</code>, <code>jQuery</code>, <code>APIs</code>, <code>Bootstrap</code> & <code>PHP</code><br>
+⚗️ I'm also experimenting with <code>Serverless Functions</code>
 🤝 I’m looking to collaborate on agency-based projects<br><br>
   
 [![wakatime](https://wakatime.com/badge/user/eb6c6ab1-4937-4b89-96e5-76e3a543f10d.svg?style=for-the-badge)](https://wakatime.com/@eb6c6ab1-4937-4b89-96e5-76e3a543f10d?style=for-the-badge)
