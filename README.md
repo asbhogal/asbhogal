@@ -35,6 +35,9 @@
 <a target="_blank" rel="noopener noreferrer" href="https://github.com/devicons/devicon/blob/master/icons/digitalocean/digitalocean-original.svg"><img src="https://github.com/devicons/devicon/blob/master/icons/digitalocean/digitalocean-original.svg" alt="digitalocean logo" width="45" style="max-width:100%;"></a>
 <a target="_blank" rel="noopener noreferrer" href="https://github.com/devicons/devicon/blob/master/icons/gimp/gimp-plain.svg"><img src="https://github.com/devicons/devicon/blob/master/icons/gimp/gimp-plain.svg" alt="gimp logo" width="45" style="max-width:100%;"></a>
   
+  
+<details><summary><h2>STATS & ACHIEVEMENTS</h2></summary>
+  
 <h2>MOST COMMON STACKS USED</h2>
 
 <img src="https://github-readme-stats-kappa-livid.vercel.app/api/top-langs/?username=asbhogal&layout=compact&theme=dark">
@@ -46,6 +49,8 @@
 <h2>CURRENT ACHIEVEMENTS</h2>
  
 <img src="https://github-profile-trophy.vercel.app/?username=asbhogal&theme=darkhub"> 
+ 
+  </details>
  
 <!--<h2>CONTACT ME</h2>
 <a target="_blank" href="mailto:amansinghbhogal1@gmail.com"><img src="https://github.com/FortAwesome/Font-Awesome/blob/master/svgs/solid/envelope.svg" alt="email" width="50" height="50" style="max-width:100%;"></a>
