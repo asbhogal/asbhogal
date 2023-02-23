@@ -4,7 +4,7 @@
 👋 Hi, I’m Aman<br>
 💻 I have over <strong>2 and a half years</strong> of client-side experience in Web Design and Development<br> 
 ⚗️ I'm also experimenting with <code>Serverless Functions</code><br>
-🤝 I’m looking to collaborate on <strong>agency-based</strong> projects<br><br>
+🤝 I’m looking to collaborate on <strong>client and agency-based</strong> projects<br><br>
   
 [![wakatime](https://wakatime.com/badge/user/eb6c6ab1-4937-4b89-96e5-76e3a543f10d.svg?style=for-the-badge)](https://wakatime.com/@eb6c6ab1-4937-4b89-96e5-76e3a543f10d?style=for-the-badge)
   
