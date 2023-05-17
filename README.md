@@ -3,7 +3,7 @@
 <h2>ABOUT ME</h2>
 👋 Hi, I’m Aman, a multi-disciplined Front End Developer and UI Engineer<br>
 💻 I have <strong>3 years</strong> of client-side experience in Design and Development<br> 
-🖌️ I work extensively with <code>Figma</code>, <code>Adobe CC</code>, <code>React</code> and <code>Next.js</code><br>
+🖌️ I work extensively with <code>Figma</code>, <code>Adobe CC</code>, <code>JavaScript</code>, <code>React</code> and <code>Next.js</code><br>
 🤝 I’m looking to collaborate on <strong>client and agency-based</strong> projects<br><br>
   
 [![wakatime](https://wakatime.com/badge/user/eb6c6ab1-4937-4b89-96e5-76e3a543f10d.svg?style=for-the-badge)](https://wakatime.com/@eb6c6ab1-4937-4b89-96e5-76e3a543f10d?style=for-the-badge)
