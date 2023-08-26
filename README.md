@@ -1,8 +1,8 @@
 <div align="center">
 
 <h2>ABOUT ME</h2>
-👋 Hi, I’m Aman, a multi-disciplined, award-nominated Creative Front End Developer and UI Engineer<br>
-💻 I have <strong>3 years</strong> of client-side experience in Design and Development<br> 
+👋 Hi, I’m Aman, a multi-disciplined, Award-Winning Creative Front End Developer and UI Engineer<br>
+💻 I have <strong>3 years</strong> of experience in Web Design and Development<br> 
 🖌️ I work extensively with <code>Figma</code>, <code>Adobe CC</code>, <code>JavaScript</code>, <code>React</code> and <code>Next.js</code><br>
 🤝 I’m looking to collaborate on <strong>client and agency-based</strong> projects<br><br>
   
