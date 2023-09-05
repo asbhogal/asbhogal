@@ -8,7 +8,7 @@
 
 <a target="_blank" rel="noopener noreferrer" href="https://www.csswinner.com/details/personal-portfolio/17436"><img src="https://github.com/asbhogal/Personal-Portfolio-Site/blob/main/public/images/CSSWinnerStar.svg" alt="CSS Winner logo" width="150" style="max-width:100%;"></a>
 
-<a target="_blank" rel="noopener noreferrer" href="https://www.csswinner.com/details/personal-portfolio/17436](https://www.linkedin.com/posts/frontend-mentor_using-our-challenges-as-a-guide-but-adding-activity-7092496519299219456-5B_C?utm_source=share&utm_medium=member_desktop"><img src="https://github.com/asbhogal/Personal-Portfolio-Site/blob/main/public/images/FrontendMentorBadge.svg" alt="CSS Winner logo" width="200" style="max-width:100%;"></a>
+<a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/posts/frontend-mentor_using-our-challenges-as-a-guide-but-adding-activity-7092496519299219456-5B_C?utm_source=share&utm_medium=member_desktop"><img src="https://github.com/asbhogal/Personal-Portfolio-Site/blob/main/public/images/FrontendMentorBadge.svg" alt="Frontend Mentor logo" width="200" style="max-width:100%;"></a>
 
 [![wakatime](https://wakatime.com/badge/user/eb6c6ab1-4937-4b89-96e5-76e3a543f10d.svg?style=for-the-badge)](https://wakatime.com/@eb6c6ab1-4937-4b89-96e5-76e3a543f10d?style=for-the-badge)
   
