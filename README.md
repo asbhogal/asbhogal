@@ -23,6 +23,10 @@
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
 ![ESLint](https://img.shields.io/badge/eslint-3A33D1?style=for-the-badge&logo=eslint&logoColor=white)
+![Jest](https://img.shields.io/badge/Jest-323330?style=for-the-badge&logo=Jest&logoColor=red)
+![RTL](https://img.shields.io/badge/testing%20library-323330?style=for-the-badge&logo=testing-library&logoColor=red)
+![Cypress](https://img.shields.io/badge/Cypress-323330?style=for-the-badge&logo=Cypress&logoColor=green)
+![Playwright](https://img.shields.io/badge/Playwright-323330?style=for-the-badge&logo=Playwright&logoColor=Green)
 <br>
 ![Figma](https://img.shields.io/badge/figma-%A259FF.svg?style=for-the-badge&logo=figma&logoColor=white) 
 ![Adobe Ai](https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobe%20illustrator&logoColor=white) 
