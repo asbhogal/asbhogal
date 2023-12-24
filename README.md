@@ -43,7 +43,7 @@
 
 <h2>CONTACT ME</h2>
 
-<a target="_blank" href="mailto:careers@amansinghbhogal.com"><img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=Gmail&logoColor=white" height="30px" alt="email"></a>
+<a target="_blank" href="amansinghbhogal1@gmail.com"><img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=Gmail&logoColor=white" height="30px" alt="email"></a>
 <a target="_blank" href="https://amansinghbhogal.com/"><img src="https://img.shields.io/badge/website-3e065f?style=for-the-badge&logo=About.me&logoColor=ccc" height="30px" alt="website contact"></a>
 <a target="_blank" href="https://www.linkedin.com/in/amansinghbhogal"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="30px" alt="linkedin"></a>
 
