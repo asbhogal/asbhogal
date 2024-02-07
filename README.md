@@ -4,7 +4,7 @@
 👋 Hi, I’m Aman, a multi-disciplined, Award-Winning Creative Front End Developer and UI Engineer<br>
 💻 I have over <strong>3 and a half years</strong> of experience in Web Design and Development<br> 
 🖌️ I work extensively with <code>TypeScript</code>, <code>Next.js</code>, <code>React</code>, <code>Tailwind</code>, <code>SASS</code>, <code>Figma</code> and <code>Adobe CC</code><br>
-🤝 I’m looking to collaborate on <strong>client, agency, B2C and B2B</strong> work<br><br>
+🤝 I’m currently working as a <strong>Frontend Software Developer</strong> at Innovixx<br><br>
 
 <a target="_blank" rel="noopener noreferrer" href="https://www.csswinner.com/details/personal-portfolio/17436"><img src="https://github.com/asbhogal/Personal-Portfolio-Site/blob/main/public/images/CSSWinnerStar.svg" alt="CSS Winner logo" width="150" style="max-width:100%;"></a>
 
