@@ -2,7 +2,7 @@
 
 <h2>ABOUT ME</h2>
 👋 Hi, I’m Aman, a multi-disciplined, Award-Winning Creative Front End Developer and UI Engineer<br>
-💻 I have over <strong>3 and a half years</strong> of experience in Web Design and Development<br> 
+💻 I have <strong>4+</strong> of experience in Web Design and Development<br> 
 🖌️ I work extensively with <code>TypeScript</code>, <code>Next.js</code>, <code>React</code>, <code>Tailwind</code>, <code>SASS</code>, <code>Figma</code> and <code>Adobe CC</code><br>
 🤝 I’m currently working as a <strong>Frontend Software Developer</strong> at Innovixx<br><br>
 
